@@ -1,16 +1,12 @@
 ### Hello there 👋
 
-#### Backend Developer focused on Go, Microservices & Cloud-Native Systems
-
-Building scalable backend services using Go, gRPC, PostgreSQL, Kafka, Redis, and Docker.
+#### Backend Developer focused on Go, Microservices & Cloud-Native Systems.         
 
 - ⚙️ Primary technologies: `Go`, `PostgreSQL`, `Redis`, `Kafka`, `Docker`, `gRPC`, `Jaeger`, `Elasticsearch`, `Prometheus`, `Grafana`, `Nginx`
 - 🌍 Interested in microservices, observability, and clean architecture
 - 📫 You can reach me at: [akmyradowakmuhammet21@gmail.com](mailto:akmyradowakmuhammet21@gmail.com)
 
----
-
-### 🛠 Tools & Technologies
+#### 🛠 Tools & Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
