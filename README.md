@@ -4,7 +4,7 @@
 
 Building scalable backend services using Go, gRPC, PostgreSQL, Kafka, Redis, and Docker.
 
-- ⚙️ I work daily with: `Go`, `PostgreSQL`, `Redis`, `Kafka`, `Docker`, `gRPC`, `Jaeger`, `Elasticsearch`, `Prometheus`, `Grafana`, `Nginx`
+- ⚙️ Primary technologies: `Go`, `PostgreSQL`, `Redis`, `Kafka`, `Docker`, `gRPC`, `Jaeger`, `Elasticsearch`, `Prometheus`, `Grafana`, `Nginx`
 - 🌍 Interested in microservices, observability, and clean architecture
 - 📫 You can reach me at: [akmyradowakmuhammet21@gmail.com](mailto:akmyradowakmuhammet21@gmail.com)
 
