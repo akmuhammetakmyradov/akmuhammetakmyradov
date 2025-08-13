@@ -3,7 +3,7 @@
 #### Backend Developer focused on Go, Microservices & Cloud-Native Systems.         
 
 - ⚙️ Primary technologies: `Go`, `PostgreSQL`, `Redis`, `Kafka`, `Docker`, `gRPC`, `Jaeger`, `Elasticsearch`, `Prometheus`, `Grafana`, `Nginx`
-- 🌍 Interested in microservices, observability and clean architecture
+- 🌍 Interested in microservices, observability, clean architecture and exploring AI/LLM technologies
 - 📫 You can reach me at: [akmyradowakmuhammet21@gmail.com](mailto:akmyradowakmuhammet21@gmail.com)
 
 #### 🛠 Tools & Technologies
