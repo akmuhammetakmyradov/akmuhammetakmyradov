@@ -28,9 +28,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=for-the-badge"/>
 </p>
-
-
-### 👁️ Visitors Count
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akmuhammetakmyradov&label=Profile+views&color=0e75b6&style=flat" />
-</p>
